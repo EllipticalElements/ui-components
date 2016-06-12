@@ -1,7 +1,7 @@
 {
   "name": "ui-components",
   "description": "ui web component catalog",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "main": "ui-components.html",
   "authors": [
     "S. Francis"
@@ -41,7 +41,7 @@
     "bk"
   ],
   "dependencies": {
-    "elliptical-polymer-behaviors": "~1.1.0",
+    "elliptical-polymer-behaviors": "~1.2.0",
     "elliptical-sass": "~1.2.1",
     "sass-core-icons": "~1.0.4",
     "sass-content-icons": "~1.0.4",
