@@ -1,7 +1,7 @@
 {
   "name": "ui-components",
   "description": "ui web component catalog",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "main": "ui-components.html",
   "authors": [
     "S. Francis"
@@ -59,6 +59,7 @@
     "ui-tabs": "~1.2.0",
     "ui-collapse": "~1.2.0",
     "ui-button-dropdown": "~1.2.0",
-    "ui-carousel": "~1.2.0"
+    "ui-carousel": "~1.2.0",
+    "ui-step-progress": "~1.0.0"
   }
 }
